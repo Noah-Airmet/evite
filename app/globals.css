@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-blush: #FDF2F0;
+  --color-cream: #F5F0E8;
+  --color-navy: #1B3A5C;
+  --color-navy-light: #2A5580;
+  --color-gold: #C9A96E;
+  --color-gold-light: #E8D5A8;
+  --color-pink-soft: #F2D5D0;
+  --color-envelope: #E8D5C0;
+  --color-envelope-dark: #D4BC9A;
+  --font-script: "Dancing Script", cursive;
+}
+
+body {
+  background: var(--color-blush);
+  color: var(--color-navy);
+  font-family: system-ui, -apple-system, sans-serif;
+}
