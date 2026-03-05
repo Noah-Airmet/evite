@@ -29,7 +29,7 @@ export default function PhotosLink() {
               clipRule="evenodd"
             />
           </svg>
-          Open Photo Album
+          Open Google Photos Album
         </a>
       </div>
     </section>
