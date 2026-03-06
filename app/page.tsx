@@ -28,9 +28,9 @@ export default function Home() {
       </div>
 
       <Details />
+      <RSVP />
       <PhotosLink />
       <Calendar />
-      <RSVP />
 
       {/* Footer */}
       <footer className="text-center pb-8 text-navy-light/50 text-xs">

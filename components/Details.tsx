@@ -98,7 +98,7 @@ export default function Details() {
             doing facials or mani/pedis to kick off the day!
           </p>
           <p className="text-navy-light text-sm mt-2">
-            RSVP to Kiera by April 30th:{" "}
+            RSVP to Keira by April 30th:{" "}
             <a
               href="tel:+13855221614"
               className="font-medium text-navy underline"
