@@ -1,6 +1,6 @@
 export default function PhotosLink() {
   // TODO: Replace with actual Google Photos album link
-  const photosUrl = "#";
+  const photosUrl = "https://photos.app.goo.gl/WDKj36resBP8wo6p9";
 
   return (
     <section className="px-4 pb-12 flex justify-center">
